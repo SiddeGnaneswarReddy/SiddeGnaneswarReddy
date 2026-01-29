@@ -45,10 +45,16 @@ I enjoy working with data end-to-end — from **exploration and modeling** to **
     <td width="5%"></td>
     <td width="35%" valign="top">
 
+<h2 align="center">⚡ GitHub Analytics</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gnaneswar's Stats" width="100%"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddeGnaneswarReddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddeGnaneswarReddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gnaneswar's Stats" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddeGnaneswarReddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170"/>
 </div>
 
 </td>
