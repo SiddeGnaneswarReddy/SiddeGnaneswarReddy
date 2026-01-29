@@ -59,27 +59,11 @@ While my core focus is on **Data Science & ML**, I also have **working knowledge
 
 ---
 
-### ☁️ Cloud
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=red)
 
----
 
-## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charanteja009&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charanteja009&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Charanteja009/Charanteja009/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
