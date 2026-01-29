@@ -1,83 +1,79 @@
-<h1 align="center">Hi 👋, I'm Gnaneswar Reddy</h1>
+<div align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gnaneswar%20Reddy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20Into%20Insights%20|%20Building%20ML%20Solutions&descAlignY=51&descSize=20&fontColor=ffffff" alt="Header Background" width="100%"/>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Data+Analyst;Machine+Learning+Engineer;Applied+AI+Enthusiast&center=true&width=520&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
-</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Data+Analyst;Machine+Learning+Engineer;Applied+AI+Enthusiast&center=true&width=500&height=50&color=2F80ED&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  📍 Andhra Pradesh, India <br>
-  📊 Turning data into insights | 🤖 Building ML solutions
-</p>
+  <p>
+     📍 <b>Andhra Pradesh, India</b>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+<br />
 
 ---
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      
 ## 🧑‍💼 About Me
 
 I am a **Data Scientist and Machine Learning Engineer** with a strong foundation in **data analysis, statistical thinking, and applied machine learning**.  
-I enjoy working with data end-to-end — from **exploration and modeling** to **deployment and real-world impact**.
 
-While my core focus is on **Data Science & ML**, I also have **working knowledge of frontend and backend technologies**, enabling me to deploy models as usable applications.
+I enjoy working with data end-to-end — from **exploration and modeling** to **deployment and real-world impact**. While my core focus is on **Data Science & ML**, I also have working knowledge of frontend and backend technologies, enabling me to deploy models as usable applications.
 
----
+### 🧠 Core Expertise
+- 📊 **Data Analysis & EDA**
+- 🤖 **Machine Learning & Modeling**
+- 🧪 **Feature Engineering**
+- ⚙️ **ML Pipelines & Deployment**
+- 📈 **Business-driven problem solving**
 
-## 🧠 Core Expertise
+</td>
+    <td width="5%"></td>
+    <td width="35%" valign="top">
 
-- 📊 **Data Analysis & EDA** — extracting insights from structured data  
-- 🤖 **Machine Learning** — model building, evaluation, and optimization  
-- 🧪 **Feature Engineering & Preprocessing**  
-- ⚙️ **ML Pipelines & Model Deployment**  
-- 📈 **Business-driven problem solving with data**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gnaneswar's Stats" width="100%"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+</div>
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🔹 Programming Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=orange)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=blue)
+<div align="center">
 
----
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-000?style=flat&logo=scikit-learn) |
+| **ML & MLOps** | ![MLflow](https://img.shields.io/badge/-MLOps-000?style=flat&logo=mlflow) ![Databricks](https://img.shields.io/badge/-EDA-000?style=flat&logo=databricks) |
+| **Web & Dev** | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) |
 
-### 📊 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-![EDA](https://img.shields.io/badge/EDA-0d1117?style=for-the-badge&logo=databricks&logoColor=red)
-![MLOps](https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=mlflow&logoColor=blue)
+</div>
 
----
+<br />
 
-### 🌐 Deployment & Development (Working Knowledge)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=blue)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green)
-
----
-
-
-
-
-
-
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-</p>
-
----
-
-<p align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <br />
   <i>Data-driven mindset • Practical machine learning • Continuous learning</i>
-</p>
+</div>
