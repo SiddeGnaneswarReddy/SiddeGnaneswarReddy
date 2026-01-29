@@ -63,21 +63,41 @@ I enjoy working with data end-to-end — from **exploration and modeling** to **
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-000?style=flat&logo=scikit-learn) |
-| **ML & MLOps** | ![MLflow](https://img.shields.io/badge/-MLOps-000?style=flat&logo=mlflow) ![Databricks](https://img.shields.io/badge/-EDA-000?style=flat&logo=databricks) |
-| **Web & Dev** | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) |
-
-</div>
-
-<br />
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  <br />
-  <i>Data-driven mindset • Practical machine learning • Continuous learning</i>
-</div>
+  <table border="0" align="center">
+    <tr>
+      <td align="center" width="20%">
+        <b>💻 Languages</b>
+      </td>
+      <td align="center" width="80%">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <b>📊 Data Science & ML</b>
+      </td>
+      <td align="center" width="80%">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" alt="MLflow" />
+        <img src="https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <b>🌐 Web & Tools</b>
+      </td>
+      <td align="center" width="80%">
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+        <img src="
