@@ -52,10 +52,7 @@ I enjoy working with data end-to-end — from **exploration and modeling** to **
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddeGnaneswarReddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gnaneswar's Stats" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddeGnaneswarReddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170"/>
-</div>
 
 </td>
   </tr>
