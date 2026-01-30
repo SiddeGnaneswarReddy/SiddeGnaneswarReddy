@@ -74,13 +74,13 @@ I enjoy working with data end-to-end — from **exploration and modeling** to **
 </div>
 
 <br/>
----
+
 
 </td>
   </tr>
 </table>
 
----
+
 
 ## 🛠️ Skills & Technologies
 
