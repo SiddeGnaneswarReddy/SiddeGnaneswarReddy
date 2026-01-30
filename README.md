@@ -53,7 +53,28 @@ I enjoy working with data end-to-end — from **exploration and modeling** to **
 
   <br/>
 
+<h2 align="center">🎲 Snake & Ladder Game</h2>
 
+<p align="center">
+  A fun side project showcasing logic building, game state handling, and UI interaction.
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+       alt="Snake Preview"
+       width="600"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://SiddeGnaneswarReddy.github.io/snake-ladder-game/" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Play%20Snake%20%26%20Ladder-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+---
 
 </td>
   </tr>
