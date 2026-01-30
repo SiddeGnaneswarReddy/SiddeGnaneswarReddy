@@ -45,13 +45,6 @@ I enjoy working with data end-to-end — from **exploration and modeling** to **
     <td width="5%"></td>
     <td width="35%" valign="top">
 
-<h2 align="center">⚡ GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddeGnaneswarReddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-<br/>
-
-  <br/>
 
 <h2 align="center">🎲 Snake & Ladder Game</h2>
 
